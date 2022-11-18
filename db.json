@@ -1,1113 +1,1309 @@
-{
-    "makeup":[
-        {
-        "id": 1,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Twstr-(1).jpg",
-        "product-name": "Twist It Mascara",
-        "short-des": "Volumising and Curling Mascara",
-        "offer-price": "₹ 645",
-        "plus-icon src": "",
-        "shade-count": "",
-        "actual-price": ""
-        },
-        {
-        "id": 2,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Instabdd-(1).jpg",
-        "product-name": "LIT Liquid Matte Lipstick",
-        "short-des": "Moringa Oil Enriched Matte Lipstick",
-        "offer-price": "₹ 395",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "100 Shades",
-        "actual-price": ""
-        },
-        {
-        "id": 3,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(2).jpg",
-        "product-name": "SUPERFOODS Kajal",
-        "short-des": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
-        "offer-price": "₹ 296",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "actual-price": "₹ 395"
-        },
-        {
-        "id": 4,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Beat-(1)_1.jpg",
-        "product-name": "LIT Radiant Matte Compact",
-        "short-des": "Illuminating Matte Pressed Powder",
-        "offer-price": "₹ 371",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "actual-price": "₹ 495"
-        },
-        {
-        "id": 5,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
-        "product-name": "POPxo Makeup - Mini Lip Kit",
-        "short-des": "Mini Lipstick kit with 3 creamy-matte bold lipsticks",
-        "offer-price": "₹ 244",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "5 Shades",
-        "actual-price": "₹ 349"
-        },
-        {
-        "id": 6,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/4-(1)jpg.jpg",
-        "product-name": "POPxo Makeup - Nail Kit",
-        "short-des": "Mini Nail Polish set with 5 chip-resistant glitter nail polishes",
-        "offer-price": "₹ 186",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "5 Shades",
-        "actual-price": "₹ 249"
-        },
-        {
-        "id": 7,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
-        "product-name": "LIT - pH Lip Balm",
-        "short-des": "Creamy, Hydrating Formula with a Luminous Effect",
-        "offer-price": "₹ 345",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "5 Shades",
-        "actual-price": ""
-        },
-        {
-        "id": 8,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Fakeid-(1).jpg",
-        "product-name": "LIT Velvet Matte Liquid Lipstick",
-        "short-des": "Hydrating, Velvet Matte Liquid Lipcolour",
-        "offer-price": "₹ 395",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "11 Shades",
-        "actual-price": ""
-        },
-        {
-        "id": 9,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_5.jpg",
-        "product-name": "POPxo 12 Eyeshadow Kit",
-        "short-des": "Eyeshadow palette with 6 matte and 6 shimmer shades",
-        "offer-price": "₹ 314",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "actual-price": "₹ 449"
-        },
-        {
-        "id": 10,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Party-parade-(1).jpg",
-        "product-name": "Two of Your Kind",
-        "short-des": "Long-Lasting Gel Finish Nail Enamel Set",
-        "offer-price": "₹ 221",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "17 Shades",
-        "actual-price": "₹ 295"
-        },
-        {
-        "id": 11,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
-        "product-name": "Perfect Curves",
-        "short-des": "Moisturising Matte Lipstick",
-        "offer-price": "₹ 486",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "10 Shades",
-        "actual-price": "₹ 695"
-        },
-        {
-        "id": 12,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
-        "product-name": "K.Play Flavoured Lipstick",
-        "short-des": "Cherry Flavoured Vitamin E-enriched Creamy Lipstick",
-        "offer-price": "₹ 545",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "11 Shades",
-        "actual-price": ""
-        },
-        {
-        "id": 13,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
-        "product-name": "Manish Malhotra Precision Liquid Felt Tip Eyeliner",
-        "short-des": "Intense Longwear Liquid Eyeliner Pen | Made in Germany",
-        "offer-price": "₹ 671",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "actual-price": "₹ 895"
-        },
-        {
-        "id": 14,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/8-Mascara-post-1-Black_1.jpg",
-        "product-name": "Manish Malhotra Mascara",
-        "short-des": "Classic Volumizing & Defining Mascara",
-        "offer-price": "₹ 637",
-        "plus-icon src": "",
-        "shade-count": "",
-        "actual-price": "₹ 850"
-        },
-        {
-        "id": 15,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
-        "product-name": "MyGlamm LIT Glossy Liquid Eyeliner",
-        "short-des": "Up To 24HR Smudge-Proof Coloured Eyeliner",
-        "offer-price": "₹ 325",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "4 Shades",
-        "actual-price": ""
-        },
-        {
-        "id": 16,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
-        "product-name": "POPxo Makeup - Eyeshadow Kit",
-        "short-des": "Eyeshadow palette with 2 shimmer and 2 matte shades",
-        "offer-price": "₹ 224",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "actual-price": "₹ 299"
-        },
-        {
-        "id": 17,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Fvr-(1).jpg",
-        "product-name": "Tint It Up",
-        "short-des": "Lip & Cheek Stain",
-        "offer-price": "₹ 695",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "3 Shades",
-        "actual-price": ""
-        },
-        {
-        "id": 18,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/open-product-side-bar.jpg",
-        "product-name": "POPxo Makeup - Face Kit",
-        "short-des": "3-in-1 blush, setting powder, and highlighter palette",
-        "offer-price": "₹ 279",
-        "plus-icon src": "",
-        "shade-count": "",
-        "actual-price": "₹ 399"
-        },
-        {
-        "id": 19,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
-        "product-name": "LIT Brow Definer Pencil",
-        "short-des": "Define & Sculpt Browliner",
-        "offer-price": "₹ 495",
-        "plus-icon src": "",
-        "shade-count": "",
-        "actual-price": ""
-        }
-        ],
-    "skincare":[
-        {
-        "id": 1,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
-        "product-name": "POPxo De-Tan Jam Instant Brightening Yoghurt Sheet Mask",
-        "short-des": "Sheet Mask For a Post-sun Glow Up",
-        "offer-price": "₹ 99",
-        "actual-price": ""
-        },
-        {
-        "id": 2,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
-        "product-name": "WIPEOUT Germ Killing Face Wash",
-        "short-des": "Tea Tree Oil & Vitamin E-infused Face Wash",
-        "offer-price": "₹ 89",
-        "actual-price": "₹ 119"
-        },
-        {
-        "id": 3,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
-        "product-name": "MyGlamm MyGlamm Wipeout Germ Killing Face Wash - Lavender & Neem",
-        "short-des": "Lavender & Neem Infused Purifying Face Wash",
-        "offer-price": "₹ 107",
-        "actual-price": "₹ 119"
-        },
-        {
-        "id": 4,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
-        "product-name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50 PA+++ 50ml",
-        "short-des": "Sunscreen For Girls On The Go",
-        "offer-price": "₹ 297",
-        "actual-price": "₹ 349"
-        },
-        {
-        "id": 5,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/VFFD-(1).jpg",
-        "product-name": "MyGlamm Wipeout Germ Killing Face Scrub - Rose & Honey",
-        "short-des": "Rose & Honey Infused Germ-killing & Purifying Face scrub",
-        "offer-price": "₹ 103",
-        "actual-price": "₹ 129"
-        },
-        {
-        "id": 6,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/BRSGt-(1).jpg",
-        "product-name": "K.Play Sheet Mask",
-        "short-des": "Mandarin-infused Brightening Sheet Mask",
-        "offer-price": "₹ 101",
-        "actual-price": "₹ 145"
-        },
-        {
-        "id": 7,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Kiwi---Coconut-Sunscreen-1_1.jpg",
-        "product-name": "MyGlamm SUPERFOODS Kiwi & Coconut Sunscreen",
-        "short-des": "Broad-Spectrum, Lightweight & Non-greasy Sunscreen With SPF 30 PA+++",
-        "offer-price": "₹ 399",
-        "actual-price": "₹ 499"
-        },
-        {
-        "id": 8,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
-        "product-name": "POPxo De-Tan Jam Instant Brightening Yoghurt Sheet Mask",
-        "short-des": "Sheet Mask For a Post-sun Glow Up",
-        "offer-price": "₹ 99",
-        "actual-price": ""
-        },
-        {
-        "id": 9,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/13-Sheet-Mask-post-1-Sandalwood-&-Saffron.jpg",
-        "product-name": "Manish Malhotra Sheet Mask",
-        "short-des": "Brightening Sheet Mask made with Bamboo Fibers for glowing, clear skin",
-        "offer-price": "₹ 236",
-        "actual-price": "₹ 249"
-        },
-        {
-        "id": 10,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/LLVB-(1).jpg",
-        "product-name": "MyGlamm Wipeout Germ Killing Face Scrub - Lavender & Neem",
-        "short-des": "Lavender & Neem Infused Purifying Face scrub",
-        "offer-price": "₹ 116",
-        "actual-price": "₹ 129"
-        },
-        {
-        "id": 11,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Product-shot-01_1.jpg",
-        "product-name": "MyGlamm 15% Vitamin C Brightening Serum",
-        "short-des": "Clinically Tested, Highly Concentrated Face Serum with Vitamin C & Natural Extracts",
-        "offer-price": "₹ 599",
-        "actual-price": "₹ 799"
-        },
-        {
-        "id": 12,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/SF5_1.png",
-        "product-name": "POPxo Selfie-Ready Tinted Sunscreen SPF 50 PA+++ 30g",
-        "short-des": "Sunscreen For Selfies",
-        "offer-price": "₹ 499",
-        "actual-price": ""
-        },
-        {
-        "id": 13,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/1-(1)_3.jpg",
-        "product-name": "GLOW Iridescent Brightening Sheet Mask",
-        "short-des": "Rosehip Oil-infused Brightening Sheet Mask",
-        "offer-price": "₹ 149",
-        "actual-price": "₹ 199"
-        },
-        {
-        "id": 14,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
-        "product-name": "POPxo Glow Goals Illuminating Sunscreen SPF 30 PA+++ 30g",
-        "short-des": "Sunscreen For Sun-chasers",
-        "offer-price": "₹ 349",
-        "actual-price": ""
-        },
-        {
-        "id": 15,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Product-shot-01_2.jpg",
-        "product-name": "MyGlamm 3% Hyaluronic Acid Hydrating Serum",
-        "short-des": "Clinically Tested, Highly Concentrated Face Serum with Hyaluronic Acid & Natural Extracts",
-        "offer-price": "₹ 524",
-        "actual-price": "₹ 699"
-        },
-        {
-        "id": 16,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
-        "product-name": "MyGlamm SUPERFOODS Blueberry & Kakadu Plum Sleeping Mask",
-        "short-des": "Brightening & skin repairing Sleeping Mask with natural extracts from natural superfoods",
-        "offer-price": "₹ 424",
-        "actual-price": "₹ 499"
-        },
-        {
-        "id": 17,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
-        "product-name": "MyGlamm SUPERFOODS Blueberry & Kakadu Plum Sleeping Mask",
-        "short-des": "Brightening & skin repairing Sleeping Mask with natural extracts from natural superfoods",
-        "offer-price": "₹ 424",
-        "actual-price": "₹ 499"
-        },
-        {
-        "id": 18,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/eyeeee-(1).png",
-        "product-name": "Manish Malhotra Revitalising Golden Eye Mask",
-        "short-des": "Ultra-Indulgent Golden Mesh Eye Mask With Almond and Carrot Extracts",
-        "offer-price": "₹ 149",
-        "actual-price": ""
-        },
-        {
-        "id": 19,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Product-shot-01_4.jpg",
-        "product-name": "MyGlamm 10% Niacinamide Clarifying Serum",
-        "short-des": "Clinically Tested, Highly Concentrated Face Serum with Niacinamide & Natural Extracts",
-        "offer-price": "₹ 524",
-        "actual-price": "₹ 699"
-        },
-        {
-        "id": 20,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/16-Kesar-Face-Pack-Gel-Post-1-01.jpg",
-        "product-name": "Manish Malhotra Kesar Face Pack Gel",
-        "short-des": "Gel-based Natural Face Pack",
-        "offer-price": "₹ 708",
-        "actual-price": "₹ 945"
-        },
-        {
-        "id": 21,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
-        "product-name": "MyGlamm SUPERFOODS Blueberry & Strawberry Face Cream",
-        "short-des": "Brightening & hydrating face cream with natural extracts from natural superfoods",
-        "offer-price": "₹ 299",
-        "actual-price": "₹ 399"
-        },
-        {
-        "id": 22,
-        "prod-img src": "https://files.myglamm.com/site-images/800x800/HHDR-(4).png",
-        "product-name": "POPxo H2O Booster Sunscreen Gel SPF 30 PA+++ 30g",
-        "short-des": "Sunscreen For Dew Lovers",
-        "offer-price": "₹ 349",
-        "actual-price": ""
-        }
-        ],
-        "lipstick" : [
-            {
-             "id" : "1",
-              "img": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_2.jpg",
+[
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd723",
+  "img": "https://files.myglamm.com/site-images/800x800/Beat-(1)_1.jpg",
+  "name": "LIT Radiant Matte Compact",
+  "description": "Illuminating Matte Pressed Powder",
+  "offerPrice": 371,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 495,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd727",
+  "img": "https://files.myglamm.com/site-images/800x800/Fakeid-(1).jpg",
+  "name": "LIT Velvet Matte Liquid Lipstick",
+  "description": "Hydrating, Velvet Matte Liquid Lipcolour",
+  "offerPrice": 395,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "11 Shades",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd728",
+  "img": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_5.jpg",
+  "name": "POPxo 12 Eyeshadow Kit",
+  "description": "Eyeshadow palette with 6 matte and 6 shimmer shades",
+  "offerPrice": 314,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 449,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd720",
+  "img": "https://files.myglamm.com/site-images/800x800/Twstr-(1).jpg",
+  "name": "Twist It Mascara",
+  "description": "Volumising and Curling Mascara",
+  "offerPrice": 645,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd725",
+  "img": "https://files.myglamm.com/site-images/800x800/4-(1)jpg.jpg",
+  "name": "POPxo Makeup - Nail Kit",
+  "description": "Mini Nail Polish set with 5 chip-resistant glitter nail polishes",
+  "offerPrice": 186,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "5 Shades",
+  "actualPrice": 249,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd731",
+  "img": "https://files.myglamm.com/site-images/800x800/open-product-side-bar.jpg",
+  "name": "POPxo Makeup - Face Kit",
+  "description": "3-in-1 blush, setting powder, and highlighter palette",
+  "offerPrice": 279,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": 399,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd72d",
+  "img": "https://files.myglamm.com/site-images/800x800/8-Mascara-post-1-Black_1.jpg",
+  "name": "Manish Malhotra Mascara",
+  "description": "Classic Volumizing & Defining Mascara",
+  "offerPrice": 637,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": 850,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd72b",
+  "img": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
+  "name": "K.Play Flavoured Lipstick",
+  "description": "Cherry Flavoured Vitamin E-enriched Creamy Lipstick",
+  "offerPrice": 545,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "11 Shades",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd721",
+  "img": "https://files.myglamm.com/site-images/800x800/Instabdd-(1).jpg",
+  "name": "LIT Liquid Matte Lipstick",
+  "description": "Moringa Oil Enriched Matte Lipstick",
+  "offerPrice": 395,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "100 Shades",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd729",
+  "img": "https://files.myglamm.com/site-images/800x800/Party-parade-(1).jpg",
+  "name": "Two of Your Kind",
+  "description": "Long-Lasting Gel Finish Nail Enamel Set",
+  "offerPrice": 221,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "17 Shades",
+  "actualPrice": 295,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd72c",
+  "img": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
+  "name": "Manish Malhotra Precision Liquid Felt Tip Eyeliner",
+  "description": "Intense Longwear Liquid Eyeliner Pen | Made in Germany",
+  "offerPrice": 671,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 895,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd724",
+  "img": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
+  "name": "POPxo Makeup - Mini Lip Kit",
+  "description": "Mini Lipstick kit with 3 creamy-matte bold lipsticks",
+  "offerPrice": 244,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "5 Shades",
+  "actualPrice": 349,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd732",
+  "img": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
+  "name": "LIT Brow Definer Pencil",
+  "description": "Define & Sculpt Browliner",
+  "offerPrice": 495,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd72a",
+  "img": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+  "name": "Perfect Curves",
+  "description": "Moisturising Matte Lipstick",
+  "offerPrice": 486,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "10 Shades",
+  "actualPrice": 695,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd72f",
+  "img": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+  "name": "POPxo Makeup - Eyeshadow Kit",
+  "description": "Eyeshadow palette with 2 shimmer and 2 matte shades",
+  "offerPrice": 224,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 299,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd726",
+  "img": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
+  "name": "LIT - pH Lip Balm",
+  "description": "Creamy, Hydrating Formula with a Luminous Effect",
+  "offerPrice": 345,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "5 Shades",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd730",
+  "img": "https://files.myglamm.com/site-images/800x800/Fvr-(1).jpg",
+  "name": "Tint It Up",
+  "description": "Lip & Cheek Stain",
+  "offerPrice": 695,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "3 Shades",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd722",
+  "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(2).jpg",
+  "name": "SUPERFOODS Kajal",
+  "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+  "offerPrice": 296,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 395,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479bcfcd5dcfaf2dbfd72e",
+  "img": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
+  "name": "MyGlamm LIT Glossy Liquid Eyeliner",
+  "description": "Up To 24HR Smudge-Proof Coloured Eyeliner",
+  "offerPrice": 325,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "4 Shades",
+  "actualPrice": null,
+  "cetegory": "makeup",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13352f",
+  "img": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
+  "name": "MyGlamm SUPERFOODS Blueberry & Kakadu Plum Sleeping Mask",
+  "description": "Brightening & skin repairing Sleeping Mask with natural extracts from natural superfoods",
+  "offerPrice": 424,
+  "actualPrice": 499,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133529",
+  "img": "https://files.myglamm.com/site-images/800x800/Product-shot-01_1.jpg",
+  "name": "MyGlamm 15% Vitamin C Brightening Serum",
+  "description": "Clinically Tested, Highly Concentrated Face Serum with Vitamin C & Natural Extracts",
+  "offerPrice": 599,
+  "actualPrice": 799,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13351f",
+  "img": "https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
+  "name": "POPxo De-Tan Jam Instant Brightening Yoghurt Sheet Mask",
+  "description": "Sheet Mask For a Post-sun Glow Up",
+  "offerPrice": 99,
+  "actualPrice": null,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133526",
+  "img": "https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
+  "name": "POPxo De-Tan Jam Instant Brightening Yoghurt Sheet Mask",
+  "description": "Sheet Mask For a Post-sun Glow Up",
+  "offerPrice": 99,
+  "actualPrice": null,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133520",
+  "img": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+  "name": "WIPEOUT Germ Killing Face Wash",
+  "description": "Tea Tree Oil & Vitamin E-infused Face Wash",
+  "offerPrice": 89,
+  "actualPrice": 119,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133534",
+  "img": "https://files.myglamm.com/site-images/800x800/HHDR-(4).png",
+  "name": "POPxo H2O Booster Sunscreen Gel SPF 30 PA+++ 30g",
+  "description": "Sunscreen For Dew Lovers",
+  "offerPrice": 349,
+  "actualPrice": null,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133530",
+  "img": "https://files.myglamm.com/site-images/800x800/eyeeee-(1).png",
+  "name": "Manish Malhotra Revitalising Golden Eye Mask",
+  "description": "Ultra-Indulgent Golden Mesh Eye Mask With Almond and Carrot Extracts",
+  "offerPrice": 149,
+  "actualPrice": null,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13352c",
+  "img": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
+  "name": "POPxo Glow Goals Illuminating Sunscreen SPF 30 PA+++ 30g",
+  "description": "Sunscreen For Sun-chasers",
+  "offerPrice": 349,
+  "actualPrice": null,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133523",
+  "img": "https://files.myglamm.com/site-images/800x800/VFFD-(1).jpg",
+  "name": "MyGlamm Wipeout Germ Killing Face Scrub - Rose & Honey",
+  "description": "Rose & Honey Infused Germ-killing & Purifying Face scrub",
+  "offerPrice": 103,
+  "actualPrice": 129,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133522",
+  "img": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
+  "name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50 PA+++ 50ml",
+  "description": "Sunscreen For Girls On The Go",
+  "offerPrice": 297,
+  "actualPrice": 349,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133525",
+  "img": "https://files.myglamm.com/site-images/800x800/Kiwi---Coconut-Sunscreen-1_1.jpg",
+  "name": "MyGlamm SUPERFOODS Kiwi & Coconut Sunscreen",
+  "description": "Broad-Spectrum, Lightweight & Non-greasy Sunscreen With SPF 30 PA+++",
+  "offerPrice": 399,
+  "actualPrice": 499,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133532",
+  "img": "https://files.myglamm.com/site-images/800x800/16-Kesar-Face-Pack-Gel-Post-1-01.jpg",
+  "name": "Manish Malhotra Kesar Face Pack Gel",
+  "description": "Gel-based Natural Face Pack",
+  "offerPrice": 708,
+  "actualPrice": 945,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13352a",
+  "img": "https://files.myglamm.com/site-images/800x800/SF5_1.png",
+  "name": "POPxo Selfie-Ready Tinted Sunscreen SPF 50 PA+++ 30g",
+  "description": "Sunscreen For Selfies",
+  "offerPrice": 499,
+  "actualPrice": null,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13352e",
+  "img": "https://files.myglamm.com/site-images/800x800/Blueberry---Kakadu-Plum-Sleeping-Mask-1_1.jpg",
+  "name": "MyGlamm SUPERFOODS Blueberry & Kakadu Plum Sleeping Mask",
+  "description": "Brightening & skin repairing Sleeping Mask with natural extracts from natural superfoods",
+  "offerPrice": 424,
+  "actualPrice": 499,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13352b",
+  "img": "https://files.myglamm.com/site-images/800x800/1-(1)_3.jpg",
+  "name": "GLOW Iridescent Brightening Sheet Mask",
+  "description": "Rosehip Oil-infused Brightening Sheet Mask",
+  "offerPrice": 149,
+  "actualPrice": 199,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133521",
+  "img": "https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+  "name": "MyGlamm MyGlamm Wipeout Germ Killing Face Wash - Lavender & Neem",
+  "description": "Lavender & Neem Infused Purifying Face Wash",
+  "offerPrice": 107,
+  "actualPrice": 119,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133524",
+  "img": "https://files.myglamm.com/site-images/800x800/BRSGt-(1).jpg",
+  "name": "K.Play Sheet Mask",
+  "description": "Mandarin-infused Brightening Sheet Mask",
+  "offerPrice": 101,
+  "actualPrice": 145,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133528",
+  "img": "https://files.myglamm.com/site-images/800x800/LLVB-(1).jpg",
+  "name": "MyGlamm Wipeout Germ Killing Face Scrub - Lavender & Neem",
+  "description": "Lavender & Neem Infused Purifying Face scrub",
+  "offerPrice": 116,
+  "actualPrice": 129,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133527",
+  "img": "https://files.myglamm.com/site-images/800x800/13-Sheet-Mask-post-1-Sandalwood-&-Saffron.jpg",
+  "name": "Manish Malhotra Sheet Mask",
+  "description": "Brightening Sheet Mask made with Bamboo Fibers for glowing, clear skin",
+  "offerPrice": 236,
+  "actualPrice": 249,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee13352d",
+  "img": "https://files.myglamm.com/site-images/800x800/Product-shot-01_2.jpg",
+  "name": "MyGlamm 3% Hyaluronic Acid Hydrating Serum",
+  "description": "Clinically Tested, Highly Concentrated Face Serum with Hyaluronic Acid & Natural Extracts",
+  "offerPrice": 524,
+  "actualPrice": 699,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133531",
+  "img": "https://files.myglamm.com/site-images/800x800/Product-shot-01_4.jpg",
+  "name": "MyGlamm 10% Niacinamide Clarifying Serum",
+  "description": "Clinically Tested, Highly Concentrated Face Serum with Niacinamide & Natural Extracts",
+  "offerPrice": 524,
+  "actualPrice": 699,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479cfdb4b660b9ee133533",
+  "img": "https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+  "name": "MyGlamm SUPERFOODS Blueberry & Strawberry Face Cream",
+  "description": "Brightening & hydrating face cream with natural extracts from natural superfoods",
+  "offerPrice": 299,
+  "actualPrice": 399,
+  "cetegory": "skincare",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d3",
+  "img": "https://files.myglamm.com/site-images/800x800/Nudemave-(1).jpg",
+  "name": "POSE HD Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "HD Long-wear Matte Lipstick",
+  "offerPrice": 599,
+  "count": "19 Shades",
+  "actualPrice": null,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d5",
+  "img": "https://files.myglamm.com/site-images/800x800/Soft-Matte-post-1-Violet-Dream.jpg",
+  "name": "Manish Malhotra Soft Matte Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Hydrating Long-wear Lipstick",
+  "offerPrice": 712,
+  "count": "17 Shades",
+  "actualPrice": 950,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147ce",
+  "img": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_2.jpg",
+  "name": "POPxo Makeup - Mini Lip Kit",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Mini Lipstick kit with 3 creamy-matte nude lipsticks",
+  "offerPrice": 244,
+  "count": "5 Shades",
+  "actualPrice": 349,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d6",
+  "img": "https://files.myglamm.com/site-images/800x800/Liquid-Matte-Lipstick-post-1-Night-Aura.jpg",
+  "name": "Manish Malhotra Liquid Matte Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Long-stay Velvet Matte Lip Colour",
+  "offerPrice": 696,
+  "count": "19 Shades",
+  "actualPrice": 995,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d2",
+  "img": "https://files.myglamm.com/site-images/800x800/Hi-Shine-Post-1-Regal-Crimson_1.jpg",
+  "name": "Manish Malhotra Hi-Shine Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Lightweight, Long-wear Lipsticks",
+  "offerPrice": 712,
+  "count": "24 Shades",
+  "actualPrice": 950,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147cf",
+  "img": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+  "name": "Perfect Curves",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Moisturising Matte Lipstick",
+  "offerPrice": 486,
+  "count": "10 Shades",
+  "actualPrice": 695,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d8",
+  "img": "https://files.myglamm.com/site-images/800x800/NDE.jpg",
+  "name": "Ultimatte Long Lasting Liquid Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Vitamin E Enriched Non-Drying Formula | Up To 8 Hours Stay",
+  "offerPrice": 599,
+  "count": "14 Shades",
+  "actualPrice": null,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147dc",
+  "img": "https://files.myglamm.com/site-images/800x800/Mai-tai-with-Swatch.jpg",
+  "name": "LIT Creamy Matte Lipstick Set Of 2",
+  "plus": "",
+  "description": "Precision Perfect Matte Slimstick",
+  "offerPrice": 714,
+  "count": "",
+  "actualPrice": 1190,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d1",
+  "img": "https://files.myglamm.com/site-images/800x800/Lststr-(1).jpg",
+  "name": "LIT Satin Matte Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
+  "offerPrice": 371,
+  "count": "19 Shades",
+  "actualPrice": 495,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147da",
+  "img": "https://files.myglamm.com/site-images/800x800/French-(1).jpg",
+  "name": "Clean Beauty Cocoa Butter Lip & Cheek Pencil",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Moisturising and Nourishing 2 in 1 Lip & Cheek Jumbo Pencil",
+  "offerPrice": 711,
+  "count": "1 Shade",
+  "actualPrice": 790,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d0",
+  "img": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
+  "name": "K.Play Flavoured Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Cherry Flavoured Vitamin E-enriched Creamy Lipstick",
+  "offerPrice": 545,
+  "count": "11 Shades",
+  "actualPrice": null,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d9",
+  "img": "https://files.myglamm.com/site-images/800x800/Flirtini_6.jpg",
+  "name": "LIT Creamy Matte Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Precision Perfect Matte Slimstick",
+  "offerPrice": 416,
+  "count": "17 Shades",
+  "actualPrice": 595,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d7",
+  "img": "https://files.myglamm.com/site-images/800x800/stargazer-7.jpeg",
+  "name": "LIT 2 in 1 Liquid Matte Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Intense, transfer-proof, long-lasting liquid lipstick duos",
+  "offerPrice": 381,
+  "count": "11 Shades",
+  "actualPrice": 545,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147d4",
+  "img": "https://files.myglamm.com/site-images/800x800/Vamp-(1).jpg",
+  "name": "Ultimatte Long-Stay Matte Lipstick",
+  "plus": "https://www.myglamm.com/images/plus-icon.png",
+  "description": "Hyaluronic Acid-enriched, Moisturising, Matte Slim Lipstick",
+  "offerPrice": 524,
+  "count": "11 Shades",
+  "actualPrice": 699,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147db",
+  "img": "https://files.myglamm.com/site-images/800x800/Kuwtk-(1)-(1).jpg",
+  "name": "LIT Satin Matte Lipstick + LIT Matte Lipliner Pencil",
+  "plus": "",
+  "description": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff & Intensely Pigmented, Defining Lipliner",
+  "offerPrice": 564,
+  "count": "",
+  "actualPrice": 940,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e178f55c4186dd147dd",
+  "img": "https://files.myglamm.com/site-images/800x800/org-(1)-1.jpg",
+  "name": "K.Play Flavoured Lipstick Set Of 2",
+  "plus": "",
+  "description": "Orange Flavoured Vitamin E-enriched Creamy Lipstick",
+  "offerPrice": 708,
+  "count": "",
+  "actualPrice": 1090,
+  "cetegory": "lipstick",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e41",
+  "img": "https://files.myglamm.com/site-images/800x800/SMP-(1).jpg",
+  "name": "MyGlamm SUPERFOODS Cacao, Coconut & Coffee Shampoo with SUPERFOODS Pouch",
+  "description": "Anti-Dandruff & Moisturising Hair Cleanser",
+  "offerPrice": 324,
+  "actualPrice": 464,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e40",
+  "img": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+  "name": "MyGlamm SUPERFOODS Passion Fruit & Rosemary Shampoo",
+  "description": "Nourishing & Cleansing Shampoo with extracts from natural superfoods",
+  "offerPrice": 449,
+  "actualPrice": 499,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e3f",
+  "img": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
+  "name": "MyGlamm SUPERFOODS Passion Fruit & Rosemary Shampoo",
+  "description": "Nourishing & Cleansing Shampoo with extracts from natural superfoods",
+  "offerPrice": 449,
+  "actualPrice": 499,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e3e",
+  "img": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+  "name": "MyGlamm SUPERFOODS Cacao, Coffee & Coconut Shampoo",
+  "description": "Anti-Dandruff & Moisturising Hair Cleanser",
+  "offerPrice": 319,
+  "actualPrice": 399,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e3d",
+  "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1).jpg",
+  "name": "MyGlamm SUPERFOODS Onion & Moringa Shampoo",
+  "description": "For Hair Fall Control",
+  "offerPrice": 239,
+  "actualPrice": 299,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e42",
+  "img": "https://files.myglamm.com/site-images/800x800/Product-1_13.jpg",
+  "name": "MyGlamm SUPERFOODS Onion & Moringa Shampoo - Flat Price",
+  "description": "For Hair Fall Control",
+  "offerPrice": 199,
+  "actualPrice": 299,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479e901de23e5f326f9e43",
+  "img": "https://files.myglamm.com/site-images/800x800/SF--Hair-Fall-Control-2.jpg",
+  "name": "MyGlamm SUPERFOODS Hair Fall Control Combo",
+  "description": "Hair Fall Control With Extracts From Natural Superfoods",
+  "offerPrice": 478,
+  "actualPrice": 598,
+  "cetegory": "shampoo",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6792",
+  "img": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
+  "name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50 PA+++ 50ml",
+  "description": "Sunscreen For Girls On The Go",
+  "offerPrice": 297,
+  "actualPrice": 349,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6793",
+  "img": "https://files.myglamm.com/site-images/800x800/Kiwi---Coconut-Sunscreen-1_1.jpg",
+  "name": "MyGlamm SUPERFOODS Kiwi & Coconut Sunscreen",
+  "description": "Broad-Spectrum, Lightweight & Non-greasy Sunscreen With SPF 30 PA+++",
+  "offerPrice": 399,
+  "actualPrice": 499,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6794",
+  "img": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
+  "name": "POPxo Glow Goals Illuminating Sunscreen SPF 30 PA+++ 30g",
+  "description": "Sunscreen For Sun-chasers",
+  "offerPrice": 349,
+  "actualPrice": null,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6798",
+  "img": "https://files.myglamm.com/site-images/800x800/GG1.png",
+  "name": "POPxo Glow Goals Illuminating Sunscreen SPF 30",
+  "description": "Sunscreen For Sun-chasers",
+  "offerPrice": 297,
+  "actualPrice": 349,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6796",
+  "img": "https://files.myglamm.com/site-images/800x800/DDCF-(1)_1.jpg",
+  "name": "MyGlamm SUPERFOODS Cacao & Berries SPF Day Cream",
+  "description": "Nourishing & Protecting Day Cream With SPF",
+  "offerPrice": 319,
+  "actualPrice": 399,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6795",
+  "img": "https://files.myglamm.com/site-images/800x800/HHDR-(4).png",
+  "name": "POPxo H2O Booster Sunscreen Gel SPF 30 PA+++ 30g",
+  "description": "Sunscreen For Dew Lovers",
+  "offerPrice": 349,
+  "actualPrice": null,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6799",
+  "img": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
+  "name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50",
+  "description": "Sunscreen For Girls On The Go",
+  "offerPrice": 297,
+  "actualPrice": 349,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479ebe138d06a84bcb6797",
+  "img": "https://files.myglamm.com/site-images/800x800/BCHBU.png",
+  "name": "POPxo Beach Bum Multi-use Sunscreen Spray SPF 50 PA+++ 50ml",
+  "description": "Sunscreen For Girls On The Go",
+  "offerPrice": 349,
+  "actualPrice": null,
+  "cetegory": "sunscreen",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b51d",
+  "img": "https://files.myglamm.com/site-images/800x800/Grnte-(1).jpg",
+  "name": "Clean Beauty Chamomile Liquid Eyeliner",
+  "description": "Long-lasting, Nourishing Kajal & Eyeliner",
+  "offerPrice": 765,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "1 Shade",
+  "actualPrice": 850,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b516",
+  "img": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
+  "name": "Manish Malhotra Precision Liquid Felt Tip Eyeliner",
+  "description": "Intense Longwear Liquid Eyeliner Pen | Made in Germany",
+  "offerPrice": 671,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 895,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b51a",
+  "img": "https://files.myglamm.com/site-images/800x800/7-Glitter-Eyeliner-Post-1-Black-Moon.jpg",
+  "name": "Manish Malhotra Glitter Eyeliner",
+  "description": "Shimmer Eyeliner Pencil",
+  "offerPrice": 595,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "3 Shades",
+  "actualPrice": 850,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b51e",
+  "img": "https://files.myglamm.com/site-images/800x800/Slay-(1)-(1).jpg",
+  "name": "LIT Matte Eyeliner Pencil Set Of 2",
+  "description": "Precision Eyeliner with Intense Colour Payoff",
+  "offerPrice": 534,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": 890,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b522",
+  "img": "https://files.myglamm.com/site-images/800x800/Wheelie-(1).jpg",
+  "name": "Wheelie",
+  "description": "Precision Eyeliner and Stylist",
+  "offerPrice": 671,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": 895,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b521",
+  "img": "https://files.myglamm.com/site-images/800x800/Umber-(1)_2.jpg",
+  "name": "SUPERFOODS Kajal Set Of 2",
+  "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+  "offerPrice": 553,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": 790,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b51c",
+  "img": "https://files.myglamm.com/site-images/800x800/5-24H-Kajal-Eyeliner-Post-1-Smokey-Diamond.jpg",
+  "name": "Manish Malhotra 24H Kajal Eyeliner",
+  "description": "Multitasking, Long-wearing Retractable Kajal Pencil | Made in Germany",
+  "offerPrice": 595,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 850,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b517",
+  "img": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
+  "name": "MyGlamm LIT Glossy Liquid Eyeliner",
+  "description": "Up To 24HR Smudge-Proof Coloured Eyeliner",
+  "offerPrice": 325,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "4 Shades",
+  "actualPrice": null,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b520",
+  "img": "https://files.myglamm.com/site-images/800x800/hunty.jpeg",
+  "name": "LIT Stick-On Wing Liner",
+  "description": "Glitter Wing Eyeliner Sticker",
+  "offerPrice": 265,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "4 Shades",
+  "actualPrice": 295,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b51b",
+  "img": "https://files.myglamm.com/site-images/800x800/Stydfnd-(1).jpg",
+  "name": "Stay Defined",
+  "description": "2 in 1 Waterproof Matte Eyeliner + HD Brow Powder",
+  "offerPrice": 766,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "1 Shade",
+  "actualPrice": 1095,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b515",
+  "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(1).jpg",
+  "name": "SUPERFOODS Kajal",
+  "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+  "offerPrice": 296,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 395,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b518",
+  "img": "https://files.myglamm.com/site-images/800x800/Savag-(1).jpg",
+  "name": "LIT Matte Eyeliner Pencil",
+  "description": "Precision Eyeliner with Intense Colour Payoff",
+  "offerPrice": 445,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "7 Shades",
+  "actualPrice": null,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b519",
+  "img": "https://files.myglamm.com/site-images/800x800/Noir-(1).jpg",
+  "name": "Jet Set Eyes Kajal Eyeliner",
+  "description": "Long-wear Kohl Pencil",
+  "offerPrice": 562,
+  "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+  "count": "2 Shades",
+  "actualPrice": 750,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+  "_id": "63479f0ce15146abf418b51f",
+  "img": "https://files.myglamm.com/site-images/800x800/Slay-(1)-(1)_1.jpg",
+  "name": "LIT Matte Eyeliner Pencil Set Of 3",
+  "description": "Precision Eyeliner with Intense Colour Payoff",
+  "offerPrice": 801,
+  "plus_icon_src": "",
+  "count": "",
+  "actualPrice": 1335,
+  "cetegory": "eyeliner",
+  "__v": 0
+  },
+  {
+              "_id":"1",
+              "img": "https://files.myglamm.com/site-images/400x400/ORGLG-7.jpg",
+              "name": "MyGlamm K.Play Flavoured Lipgloss",
+              "description": "Orange Flavoured Vitamin E Enriched High Shine Lipgloss",
+              "plus-icon src": "",
+              "shade-count": "12 SHADES",
+              "offerPrice":  545,
+              "actualPrice": 897,
+        "cetegory": "RareBeautyfinds"
+  
+          },
+          {
+              "_id":"2",
+              "img": "https://files.myglamm.com/site-images/400x400/Open-product-with-side-bar_3.png",
+              "name": "POPXO 12 EYESHADOW KIT - NOOD CREW",
+              "description": "POPxo Makeup Collection - Nood Crew - 12 Eyeshadow Kit",
+              "plus-icon src": "3 SHADES",
+              "shade-count": "3 SHADES",
+              "offerPrice":  246,
+              "actualPrice":  449,
+       "cetegory": "RareBeautyfinds"
+  
+          },
+          {
+              "_id":"3",
+              "img": "https://files.myglamm.com/site-images/400x400/Banan-(1).jpg",
+              "name": "POPXO 12 EYESHADOW KIT - NOOD CREW",
+              "description": "POPxo Makeup Collection - Nood Crew - 12 Eyeshadow Kit",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 384,
+              "actualPrice": 699,
+              "cetegory": "RareBeautyfinds"
+  
+          },
+          {
+              "_id":"4",
+              "img": "https://files.myglamm.com/site-images/400x400/Lover-(1).jpg",
+              "name": "MYGLAMM LIT VELVET MATTE LIQUID LIPSTICK - LOVER",
+              "description": "Hydrating, Velvet Matte Liquid Lipcolour",
+              "plus-icon src": "",
+              "shade-count": "12 SHADES",
+              "offerPrice": 256,
+              "actualPrice": 395,		
+        "cetegory": "RareBeautyfinds"
+  
+          },
+          {
+              "_id":"5",
+              "img": "https://files.myglamm.com/site-images/400x400/ShellBeige-(1).jpg",
+              "name": "MyGlamm POSE HD Foundation Stick - Shell Beige",
+              "description": "Nourishing, Matte, Skin-blurring Foundation",
+              "plus-icon src": "",
+              "shade-count": "10 SHADES",
+              "offerPrice": 419,
+              "actualPrice": 599,
+              "cetegory": "RareBeautyfinds"
+  
+          },
+          {
+              "_id":"6",
+              "img": "https://files.myglamm.com/site-images/400x400/Moistuirising-Cream-Swatch.jpg",
+              "name": "MYGLAMM YOUTHFULL HYDRATING MOISTURISING CREAM WITH WATER BANK TECHNOLOGY",
+              "description": "Lightweight Marine Hydrating Moisturising Cream",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 537,
+              "actualPrice": 1195,
+              "cetegory": "RareBeautyfinds"
+  
+          },{
+              "_id":"7",
+              "img": "https://files.myglamm.com/site-images/400x400/Twstr-(1).jpg",
+              "name": "TWIST IT MASCARA",
+              "description": "Volumising and Curling Mascara",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 354,
+              "actualPrice": 645,
+              "cetegory": "RareBeautyfinds"
+  
+          },{
+              "_id":"8",
+              "img": "https://files.myglamm.com/site-images/400x400/Artboard-1-(1).jpg",
+              "name": "MYGLAMM SUPERFOODS ONION & MORINGA SHAMPOO - 200ML",
+              "description": "For Hair Fall Control",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 179,
+              "actualPrice": 299,
+              "cetegory": "RareBeautyfinds"
+  
+          },{
+              "_id":"9",
+              "img": "https://files.myglamm.com/site-images/400x400/Acaiber-(1).jpg",
+              "name": "MYGLAMM K.PLAY ACAI BERRY ANTI-OXIDANT SHEET MASK",
+              "description": "Acai Berry-infused Anti-oxidant Sheet Mask",
+              "plus-icon src": "",
+              "shade-count": "3 SHADES",
+              "offerPrice": 101,
+              "actualPrice": 145,
+              "cetegory": "RareBeautyfinds"
+  
+          },{
+              "_id":"10",
+              "img": "https://files.myglamm.com/site-images/400x400/lit-kits-summersorbet-web-1.jpeg",
+              "name": "SUMMER SORBET",
+              "description": "LIT Collection Makeup Set",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 540,
+              "actualPrice": 1080,
+              "cetegory": "RareBeautyfinds"
+  
+          },{
+              "_id":"11",
+              "img": "",
+              "name": "MYGLAMM- INSTANT PICK-ME-UP MAKEUP GIFT SET",
+              "description": "Timesaving makeup solutions for your mom",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 949,
+              "actualPrice": 1899,
+              "cetegory": "RareBeautyfinds"
+  
+          },{
+              "_id":"12",
+              "img": "https://files.myglamm.com/site-images/400x400/INDG1.jpg",
+              "name": "MYGLAMM SUPERFOODS KAJAL - INDIGO - 0.35G",
+              "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+              "plus-icon src": "",
+              "shade-count": "3 SHADES",
+              "offerPrice": 280,
+              "actualPrice": 395,
+              "cetegory": "RareBeautyfinds"
+  
+          },
+          {
+              "_id":"13",
+              "img": "https://files.myglamm.com/site-images/400x400/staydefined.jpeg",
+              "name": "STAY DEFINED LIQUID EYELINER BROW POWDER - EBONY & WALNUT",
+              "description": "2 in 1 Waterproof Matte Eyeliner + HD Brow Powder",
+              "plus-icon src": "",
+              "shade-count": "4 SHADES",
+              "offerPrice": 492,
+              "actualPrice":1095 ,
+                    "cetegory": "OnBudget"
+  
+          }   ,   
+          {
+              "_id":"14",
+              "img": "https://files.myglamm.com/site-images/400x400/11-Face-Body-Highlighter-Post-1-Blaze.jpg",
+              "name": "MANISH MALHOTRA FACE & BODY HIGHLIGHTER - BLAZE",
+              "description": "Liquid Metal Luminizer",
+              "plus-icon src": "",
+              "shade-count": "3 SHADES",
+              "offerPrice": 625,
+              "actualPrice": 1250,
+        "cetegory": "OnBudget"
+  
+          },
+          {
+              "_id":"15",
+              "img": "https://files.myglamm.com/site-images/400x400/Face-value-(1).jpg",
+              "name": "CHISEL IT CONTOUR MAKEUP KIT - FACE VALUE",
+              "description": "3 in 1 Highlighter + Blush + Bronzer",
+              "plus-icon src": "",
+              "shade-count": "2 SHADES",
+              "offerPrice": 812,
+              "actualPrice":1250 ,
+            "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"16",
+              "img": "https://files.myglamm.com/site-images/400x400/Cocoa-(2).jpg",
+              "name": "TOTAL MAKEOVER FF CREAM FOUNDATION PALETTE - COCOA",
+              "description": "5 in 1 Primer-Concealer-Foundation-Compact with SPF 30 & Skin Tone Corrector Palette",
+              "plus-icon src": "",
+              "shade-count": "4 SHADES",
+              "offerPrice": 1450,
+              "actualPrice": 2000,
+      "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"17",
+              "img": "https://files.myglamm.com/site-images/400x400/17-Amla-Moisturising-Gel-Post-1-01.jpg",
+              "name": "MANISH MALHOTRA AMLA MOISTURISING GEL",
+              "description": "Gel-based Natural Moisturiser",
+              "plus-icon src": "",
+              "shade-count": "3 SHADES",
+              "offerPrice": 756,
+              "actualPrice": 945,
+        "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"18",
+              "img": "https://files.myglamm.com/site-images/400x400/Rge-(1).jpg",
+              "name": "SPOTLIGHT ILLUMINATING LIQUID - ROUGE",
+              "description": "Shimmer Liquid Blush",
+              "plus-icon src": "",
+              "shade-count": "2 SHADES",
+              "offerPrice": 597,
+              "actualPrice":1195 ,
+                          "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"19",
+              "img": "https://files.myglamm.com/site-images/400x400/FMCLN-(1).jpg",
+              "name": "MANISH MALHOTRA LIQUID MATTE LIPSTICK - EYES ON ME",
+              "description": "Long-stay Velvet Matte Lip Colour",
+              "plus-icon src": "",
+              "shade-count": "1 SHADES",
+              "offerPrice": 796,
+              "actualPrice":995 ,
+                          "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"20",
+              "img": "https://files.myglamm.com/site-images/400x400/EYM1.jpg",
+              "name": "MANISH MALHOTRA LIQUID MATTE LIPSTICK - EYES ON ME",
+              "description": "",
+              "plus-icon src": "",
+              "shade-count": "",
+              "offerPrice": 678,
+              "actualPrice":890 ,
+                          "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"21",
+              "img": "https://files.myglamm.com/site-images/400x400/GL1.jpg",
+              "name": "GLOW TO GLAMOUR SHIMMER AND FIXING POWDER",
+              "description": "2 in 1 Shimmer and Fixing Powder",
+              "plus-icon src": "",
+              "shade-count": "4 SHADES",
+              "offerPrice": 537,
+              "actualPrice": 1195,
+                          "cetegory": "OnBudget"
+  
+          }   ,           {
+              "_id":"22",
+              "img": "https://files.myglamm.com/site-images/400x400/Hi-shine-Lipgloss-Post-1-Retro-Romance.jpg",
+              "name": "MANISH MALHOTRA HI-SHINE LIPGLOSS - RETRO ROMANCE",
+              "description": "Hi-Shine, Iridescent Lipgloss",
+              "plus-icon src": "",
+              "shade-count": "2 SHADES",
+              "offerPrice": 789,
+              "actualPrice": 1234,
+                          "cetegory": "OnBudget"
+  
+          },
+      {
+              "_id": "23",
+              "img": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
               "name": "POPxo Makeup - Mini Lip Kit",
-              "description": "Mini Lipstick kit with 3 creamy-matte nude lipsticks",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
+              "description": "Mini Lipstick kit with 3 creamy-matte bold lipsticks",
+              "offerPrice": 244,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
               "count": "5 Shades",
-              "offerPrice": "₹ 244",
-              "actualPrice": "₹ 349"
-            },
-            {
-             "id" : "2",
-              "img": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+              "actualPrice": 349,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "24",
+                  "img": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
+              "name": "LIT Brow Definer Pencil",
+              "description": "Define & Sculpt Browliner",
+              "offerPrice": 495,
+              "plus_icon_src": "",
+              "count": "",
+              "actualPrice": null,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "25",
+                  "img": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
               "name": "Perfect Curves",
               "description": "Moisturising Matte Lipstick",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "10 Shades",
-              "offerPrice": "₹ 486",
-              "actualPrice": "₹ 695"
-            },
-            {
-             "id" : "3",
-              "img": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
-              "name": "K.Play Flavoured Lipstick",
-              "description": "Cherry Flavoured Vitamin E-enriched Creamy Lipstick",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "11 Shades",
-              "offerPrice": "₹ 545",
-              "actualPrice": ""
-            },
-            {
-             "id" : "4",
-              "img": "https://files.myglamm.com/site-images/800x800/Lststr-(1).jpg",
-              "name": "LIT Satin Matte Lipstick",
-              "description": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "19 Shades",
-              "offerPrice": "₹ 371",
-              "actualPrice": "₹ 495"
-            },
-            {
-             "id" : "5",
-              "img": "https://files.myglamm.com/site-images/800x800/Hi-Shine-Post-1-Regal-Crimson_1.jpg",
-              "name": "Manish Malhotra Hi-Shine Lipstick",
-              "description": "Lightweight, Long-wear Lipsticks",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "24 Shades",
-              "offerPrice": "₹ 712",
-              "actualPrice": "₹ 950"
-            },
-            {
-             "id" : "6",
-              "img": "https://files.myglamm.com/site-images/800x800/Nudemave-(1).jpg",
-              "name": "POSE HD Lipstick",
-              "description": "HD Long-wear Matte Lipstick",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "19 Shades",
-              "offerPrice": "₹ 599",
-              "actualPrice": ""
-            },
-            {
-             "id" : "7",
-              "img": "https://files.myglamm.com/site-images/800x800/Vamp-(1).jpg",
-              "name": "Ultimatte Long-Stay Matte Lipstick",
-              "description": "Hyaluronic Acid-enriched, Moisturising, Matte Slim Lipstick",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "11 Shades",
-              "offerPrice": "₹ 524",
-              "actualPrice": "₹ 699"
-            },
-            {
-             "id" : "7",
-              "img": "https://files.myglamm.com/site-images/800x800/Soft-Matte-post-1-Violet-Dream.jpg",
-              "name": "Manish Malhotra Soft Matte Lipstick",
-              "description": "Hydrating Long-wear Lipstick",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "17 Shades",
-              "offerPrice": "₹ 712",
-              "actualPrice": "₹ 950"
-            },
-            {
-             "id" : "8",
-              "img": "https://files.myglamm.com/site-images/800x800/Liquid-Matte-Lipstick-post-1-Night-Aura.jpg",
-              "name": "Manish Malhotra Liquid Matte Lipstick",
-              "description": "Long-stay Velvet Matte Lip Colour",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "19 Shades",
-              "offerPrice": "₹ 696",
-              "actualPrice": "₹ 995"
-            },
-            {
-             "id" : "9",
-              "img": "https://files.myglamm.com/site-images/800x800/stargazer-7.jpeg",
-              "name": "LIT 2 in 1 Liquid Matte Lipstick",
-              "description": "Intense, transfer-proof, long-lasting liquid lipstick duos",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "11 Shades",
-              "offerPrice": "₹ 381",
-              "actualPrice": "₹ 545"
-            },
-            {
-             "id" : "10",
-              "img": "https://files.myglamm.com/site-images/800x800/NDE.jpg",
-              "name": "Ultimatte Long Lasting Liquid Lipstick",
-              "description": "Vitamin E Enriched Non-Drying Formula | Up To 8 Hours Stay",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "14 Shades",
-              "offerPrice": "₹ 599",
-              "actualPrice": ""
-            },
-            {
-             "id" : "11",
-              "img": "https://files.myglamm.com/site-images/800x800/Flirtini_6.jpg",
-              "name": "LIT Creamy Matte Lipstick",
-              "description": "Precision Perfect Matte Slimstick",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "17 Shades",
-              "offerPrice": "₹ 416",
-              "actualPrice": "₹ 595"
-            },
-            {
-             "id" : "12",
-              "img": "https://files.myglamm.com/site-images/800x800/French-(1).jpg",
-              "name": "Clean Beauty Cocoa Butter Lip & Cheek Pencil",
-              "description": "Moisturising and Nourishing 2 in 1 Lip & Cheek Jumbo Pencil",
-              "plus": "https://www.myglamm.com/images/plus-icon.png",
-              "count": "1 Shade",
-              "offerPrice": "₹ 711",
-              "actualPrice": "₹ 790"
-            },
-            {
-             "id" : "13",
-              "img": "https://files.myglamm.com/site-images/800x800/Kuwtk-(1)-(1).jpg",
-              "name": "LIT Satin Matte Lipstick + LIT Matte Lipliner Pencil",
-              "description": "Hi-Wattage 3D Satin Matte Finish Lipstick With Intense Colour Payoff & Intensely Pigmented, Defining Lipliner",
-              "plus": "",
-              "count": "",
-              "offerPrice": "₹ 564",
-              "actualPrice": "₹ 940"
-            },
-            {
-             "id" : "14",
-              "img": "https://files.myglamm.com/site-images/800x800/Mai-tai-with-Swatch.jpg",
-              "name": "LIT Creamy Matte Lipstick Set Of 2",
-              "description": "Precision Perfect Matte Slimstick",
-              "plus": "",
-              "count": "",
-              "offerPrice": "₹ 714",
-              "actualPrice": "₹ 1190"
-            },
-            {
-             "id" : "15",
-              "img": "https://files.myglamm.com/site-images/800x800/org-(1)-1.jpg",
-              "name": "K.Play Flavoured Lipstick Set Of 2",
-              "description": "Orange Flavoured Vitamin E-enriched Creamy Lipstick",
-              "plus": "",
-              "count": "",
-              "offerPrice": "₹ 708",
-              "actualPrice": "₹ 1090"
-            }
-           
-           ],
-           "shampoo":[
-            {
-              "id":1,
-              "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1).jpg",
-              "name": "MyGlamm SUPERFOODS Onion & Moringa Shampoo",
-              "description": "For Hair Fall Control",
-              "offerPrice": "₹ 239",
-              "actualPrice": "₹ 299"
-            },
-            {
-              "id":2,
-              "img": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
-              "name": "MyGlamm SUPERFOODS Cacao, Coffee & Coconut Shampoo",
-              "description": "Anti-Dandruff & Moisturising Hair Cleanser",
-              "offerPrice": "₹ 319",
-              "actualPrice": "₹ 399"
-            },
-            {
-              "id":3,
-              "img": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
-              "name": "MyGlamm SUPERFOODS Passion Fruit & Rosemary Shampoo",
-              "description": "Nourishing & Cleansing Shampoo with extracts from natural superfoods",
-              "offerPrice": "₹ 449",
-              "actualPrice": "₹ 499"
-            },
-            {
-              "id":4,
-              "img": "https://files.myglamm.com/site-images/800x800/Passion-Fruit--Rosemary-Shampoo.jpg",
-              "name": "MyGlamm SUPERFOODS Passion Fruit & Rosemary Shampoo",
-              "description": "Nourishing & Cleansing Shampoo with extracts from natural superfoods",
-              "offerPrice": "₹ 449",
-              "actualPrice": "₹ 499"
-            },
-            {
-              "id":5,
-              "img": "https://files.myglamm.com/site-images/800x800/SMP-(1).jpg",
-              "name": "MyGlamm SUPERFOODS Cacao, Coconut & Coffee Shampoo with SUPERFOODS Pouch",
-              "description": "Anti-Dandruff & Moisturising Hair Cleanser",
-              "offerPrice": "₹ 324",
-              "actualPrice": "₹ 464"
-            },
-            {
-              "id":6,
-              "img": "https://files.myglamm.com/site-images/800x800/Product-1_13.jpg",
-              "name": "MyGlamm SUPERFOODS Onion & Moringa Shampoo - Flat Price",
-              "description": "For Hair Fall Control",
-              "offerPrice": "₹ 199",
-              "actualPrice": "₹ 299"
-            },
-            {
-              "id":7,
-              "img": "https://files.myglamm.com/site-images/800x800/SF--Hair-Fall-Control-2.jpg",
-              "name": "MyGlamm SUPERFOODS Hair Fall Control Combo",
-              "description": "Hair Fall Control With Extracts From Natural Superfoods",
-              "offerPrice": "₹ 478",
-              "actualPrice": "₹ 598"
-            }
-           ],
-           "sunscreen":[
-            {
-              "id":8,
-              "img": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
-              "name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50 PA+++ 50ml",
-              "description": "Sunscreen For Girls On The Go",
-              "offerPrice": "₹ 297",
-              "actualPrice": "₹ 349"
-            },
-            {
-              "id":9,
-              "img": "https://files.myglamm.com/site-images/800x800/Kiwi---Coconut-Sunscreen-1_1.jpg",
-              "name": "MyGlamm SUPERFOODS Kiwi & Coconut Sunscreen",
-              "description": "Broad-Spectrum, Lightweight & Non-greasy Sunscreen With SPF 30 PA+++",
-              "offerPrice": "₹ 399",
-              "actualPrice": "₹ 499"
-            },
-            {
-              "id":10,
-              "img": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
-              "name": "POPxo Glow Goals Illuminating Sunscreen SPF 30 PA+++ 30g",
-              "description": "Sunscreen For Sun-chasers",
-              "offerPrice": "₹ 349",
-              "actualPrice": ""
-            },
-            {
-              "id":11,
-              "img": "https://files.myglamm.com/site-images/800x800/HHDR-(4).png",
-              "name": "POPxo H2O Booster Sunscreen Gel SPF 30 PA+++ 30g",
-              "description": "Sunscreen For Dew Lovers",
-              "offerPrice": "₹ 349",
-              "actualPrice": ""
-            },
-            {
-              "id":12,
-              "img": "https://files.myglamm.com/site-images/800x800/DDCF-(1)_1.jpg",
-              "name": "MyGlamm SUPERFOODS Cacao & Berries SPF Day Cream",
-              "description": "Nourishing & Protecting Day Cream With SPF",
-              "offerPrice": "₹ 319",
-              "actualPrice": "₹ 399"
-            },
-            {
-              "id":13,
-              "img": "https://files.myglamm.com/site-images/800x800/BCHBU.png",
-              "name": "POPxo Beach Bum Multi-use Sunscreen Spray SPF 50 PA+++ 50ml",
-              "description": "Sunscreen For Girls On The Go",
-              "offerPrice": "₹ 349",
-              "actualPrice": ""
-            },
-            {
-              "id":14,
-              "img": "https://files.myglamm.com/site-images/800x800/GG1.png",
-              "name": "POPxo Glow Goals Illuminating Sunscreen SPF 30",
-              "description": "Sunscreen For Sun-chasers",
-              "offerPrice": "₹ 297",
-              "actualPrice": "₹ 349"
-            },
-            {
-              "id":15,
-              "img": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
-              "name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50",
-              "description": "Sunscreen For Girls On The Go",
-              "offerPrice": "₹ 297",
-              "actualPrice": "₹ 349"
-            }
-           ]
-           ,
-    "eyeliner":[
-      {
-        "id":1,
-        "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(1).jpg",
-        "name": "SUPERFOODS Kajal",
-        "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "offerPrice": "₹ 296",
-        "actualPrice": "₹ 395"
-      },
-      {
-        "id":2,
-        "img": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
-        "name": "Manish Malhotra Precision Liquid Felt Tip Eyeliner",
-        "description": "Intense Longwear Liquid Eyeliner Pen | Made in Germany",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "offerPrice": "₹ 671",
-        "actualPrice": "₹ 895"
-      },
-      {
-        "id":3,
-        "img": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
-        "name": "MyGlamm LIT Glossy Liquid Eyeliner",
-        "description": "Up To 24HR Smudge-Proof Coloured Eyeliner",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "4 Shades",
-        "offerPrice": "₹ 325",
-        "actualPrice": ""
-      },
-      {
-        "id":4,
-        "img": "https://files.myglamm.com/site-images/800x800/Savag-(1).jpg",
-        "name": "LIT Matte Eyeliner Pencil",
-        "description": "Precision Eyeliner with Intense Colour Payoff",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "7 Shades",
-        "offerPrice": "₹ 445",
-        "actualPrice": ""
-      },
-      {
-        "id":5,
-        "img": "https://files.myglamm.com/site-images/800x800/Noir-(1).jpg",
-        "name": "Jet Set Eyes Kajal Eyeliner",
-        "description": "Long-wear Kohl Pencil",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "offerPrice": "₹ 562",
-        "actualPrice": "₹ 750"
-      },
-      {
-        "id":6,
-        "img": "https://files.myglamm.com/site-images/800x800/7-Glitter-Eyeliner-Post-1-Black-Moon.jpg",
-        "name": "Manish Malhotra Glitter Eyeliner",
-        "description": "Shimmer Eyeliner Pencil",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "3 Shades",
-        "offerPrice": "₹ 595",
-        "actualPrice": "₹ 850"
-      },
-      {
-        "id":7,
-        "img": "https://files.myglamm.com/site-images/800x800/Stydfnd-(1).jpg",
-        "name": "Stay Defined",
-        "description": "2 in 1 Waterproof Matte Eyeliner + HD Brow Powder",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "1 Shade",
-        "offerPrice": "₹ 766",
-        "actualPrice": "₹ 1095"
-      },
-      {
-        "id":8,
-        "img": "https://files.myglamm.com/site-images/800x800/5-24H-Kajal-Eyeliner-Post-1-Smokey-Diamond.jpg",
-        "name": "Manish Malhotra 24H Kajal Eyeliner",
-        "description": "Multitasking, Long-wearing Retractable Kajal Pencil | Made in Germany",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "2 Shades",
-        "offerPrice": "₹ 595",
-        "actualPrice": "₹ 850"
-      },
-      {
-        "id":9,
-        "img": "https://files.myglamm.com/site-images/800x800/Grnte-(1).jpg",
-        "name": "Clean Beauty Chamomile Liquid Eyeliner",
-        "description": "Long-lasting, Nourishing Kajal & Eyeliner",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "1 Shade",
-        "offerPrice": "₹ 765",
-        "actualPrice": "₹ 850"
-      },
-      {
-        "id":10,
-        "img": "https://files.myglamm.com/site-images/800x800/Slay-(1)-(1).jpg",
-        "name": "LIT Matte Eyeliner Pencil Set Of 2",
-        "description": "Precision Eyeliner with Intense Colour Payoff",
-        "plus-icon src": "",
-        "shade-count": "",
-        "offerPrice": "₹ 534",
-        "actualPrice": "₹ 890"
-      },
-      {"id":11,
-        "img": "https://files.myglamm.com/site-images/800x800/Slay-(1)-(1)_1.jpg",
-        "name": "LIT Matte Eyeliner Pencil Set Of 3",
-        "description": "Precision Eyeliner with Intense Colour Payoff",
-        "plus-icon src": "",
-        "shade-count": "",
-        "offerPrice": "₹ 801",
-        "actualPrice": "₹ 1335"
-      },
-      {
-        "id":12,
-        "img": "https://files.myglamm.com/site-images/800x800/hunty.jpeg",
-        "name": "LIT Stick-On Wing Liner",
-        "description": "Glitter Wing Eyeliner Sticker",
-        "plus-icon src": "https://www.myglamm.com/images/plus-icon.png",
-        "shade-count": "4 Shades",
-        "offerPrice": "₹ 265",
-        "actualPrice": "₹ 295"
-      },
-      {
-        "id":13,
-        "img": "https://files.myglamm.com/site-images/800x800/Umber-(1)_2.jpg",
-        "name": "SUPERFOODS Kajal Set Of 2",
-        "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
-        "plus-icon src": "",
-        "shade-count": "",
-        "offerPrice": "₹ 553",
-        "actualPrice": "₹ 790"
-      },
-      {
-        "id":15,
-        "img": "https://files.myglamm.com/site-images/800x800/Wheelie-(1).jpg",
-        "name": "Wheelie",
-        "description": "Precision Eyeliner and Stylist",
-        "plus-icon src": "",
-        "shade-count": "",
-        "offerPrice": "₹ 671",
-        "actualPrice": "₹ 895"
-      }
-     ],
-     "RareBeautyfinds":[
-        {
-            "id":1,
-            "img": "https://files.myglamm.com/site-images/400x400/ORGLG-7.jpg",
-            "name": "MyGlamm K.Play Flavoured Lipgloss",
-            "description": "Orange Flavoured Vitamin E Enriched High Shine Lipgloss",
-            "plus-icon src": "",
-            "shade-count": "12 SHADES",
-            "offerPrice":  545,
-            "actualPrice": "null"
-        },
-        {
-            "id":2,
-            "img": "https://files.myglamm.com/site-images/400x400/Open-product-with-side-bar_3.png",
-            "name": "POPXO 12 EYESHADOW KIT - NOOD CREW",
-            "description": "POPxo Makeup Collection - Nood Crew - 12 Eyeshadow Kit",
-            "plus-icon src": "3 SHADES",
-            "shade-count": "3 SHADES",
-            "offerPrice":  246,
-            "actualPrice":  449
-        },
-        {
-            "id":3,
-            "img": "https://files.myglamm.com/site-images/400x400/Banan-(1).jpg",
-            "name": "POPXO 12 EYESHADOW KIT - NOOD CREW",
-            "description": "POPxo Makeup Collection - Nood Crew - 12 Eyeshadow Kit",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 384,
-            "actualPrice": 699
-        },
-        {
-            "id":4,
-            "img": "https://files.myglamm.com/site-images/400x400/Lover-(1).jpg",
-            "name": "MYGLAMM LIT VELVET MATTE LIQUID LIPSTICK - LOVER",
-            "description": "Hydrating, Velvet Matte Liquid Lipcolour",
-            "plus-icon src": "",
-            "shade-count": "12 SHADES",
-            "offerPrice": 256,
-            "actualPrice": 395
-        },
-        {
-            "id":5,
-            "img": "https://files.myglamm.com/site-images/400x400/ShellBeige-(1).jpg",
-            "name": "MyGlamm POSE HD Foundation Stick - Shell Beige",
-            "description": "Nourishing, Matte, Skin-blurring Foundation",
-            "plus-icon src": "",
-            "shade-count": "10 SHADES",
-            "offerPrice": 419,
-            "actualPrice": 599
-        },
-        {
-            "id":6,
-            "img": "https://files.myglamm.com/site-images/400x400/Moistuirising-Cream-Swatch.jpg",
-            "name": "MYGLAMM YOUTHFULL HYDRATING MOISTURISING CREAM WITH WATER BANK TECHNOLOGY",
-            "description": "Lightweight Marine Hydrating Moisturising Cream",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 537,
-            "actualPrice": 1195
-        },{
-            "id":7,
-            "img": "https://files.myglamm.com/site-images/400x400/Twstr-(1).jpg",
-            "name": "TWIST IT MASCARA",
-            "description": "Volumising and Curling Mascara",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 354,
-            "actualPrice": 645
-        },{
-            "id":8,
-            "img": "https://files.myglamm.com/site-images/400x400/Artboard-1-(1).jpg",
-            "name": "MYGLAMM SUPERFOODS ONION & MORINGA SHAMPOO - 200ML",
-            "description": "For Hair Fall Control",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 179,
-            "actualPrice": 299
-        },{
-            "id":9,
-            "img": "https://files.myglamm.com/site-images/400x400/Acaiber-(1).jpg",
-            "name": "MYGLAMM K.PLAY ACAI BERRY ANTI-OXIDANT SHEET MASK",
-            "description": "Acai Berry-infused Anti-oxidant Sheet Mask",
-            "plus-icon src": "",
-            "shade-count": "3 SHADES",
-            "offerPrice": 101,
-            "actualPrice": 145
-        },{
-            "id":10,
-            "img": "https://files.myglamm.com/site-images/400x400/lit-kits-summersorbet-web-1.jpeg",
-            "name": "SUMMER SORBET",
-            "description": "LIT Collection Makeup Set",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 540,
-            "actualPrice": 1080
-        },{
-            "id":11,
-            "img": "",
-            "name": "MYGLAMM- INSTANT PICK-ME-UP MAKEUP GIFT SET",
-            "description": "Timesaving makeup solutions for your mom",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 949,
-            "actualPrice": 1899
-        },{
-            "id":12,
-            "img": "https://files.myglamm.com/site-images/400x400/INDG1.jpg",
-            "name": "MYGLAMM SUPERFOODS KAJAL - INDIGO - 0.35G",
-            "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
-            "plus-icon src": "",
-            "shade-count": "3 SHADES",
-            "offerPrice": 280,
-            "actualPrice": 395
-        }       
-     ],
-     "OnBudget":[
-        {
-            "id":1,
-            "img": "https://files.myglamm.com/site-images/400x400/staydefined.jpeg",
-            "name": "STAY DEFINED LIQUID EYELINER BROW POWDER - EBONY & WALNUT",
-            "description": "2 in 1 Waterproof Matte Eyeliner + HD Brow Powder",
-            "plus-icon src": "",
-            "shade-count": "4 SHADES",
-            "offerPrice": 492,
-            "actualPrice":1095 
-        }   ,   
-        {
-            "id":2,
-            "img": "https://files.myglamm.com/site-images/400x400/11-Face-Body-Highlighter-Post-1-Blaze.jpg",
-            "name": "MANISH MALHOTRA FACE & BODY HIGHLIGHTER - BLAZE",
-            "description": "Liquid Metal Luminizer",
-            "plus-icon src": "",
-            "shade-count": "3 SHADES",
-            "offerPrice": 625,
-            "actualPrice": 1250
-        },
-        {
-            "id":3,
-            "img": "https://files.myglamm.com/site-images/400x400/Face-value-(1).jpg",
-            "name": "CHISEL IT CONTOUR MAKEUP KIT - FACE VALUE",
-            "description": "3 in 1 Highlighter + Blush + Bronzer",
-            "plus-icon src": "",
-            "shade-count": "2 SHADES",
-            "offerPrice": 812,
-            "actualPrice":1250 
-        }   ,           {
-            "id":4,
-            "img": "https://files.myglamm.com/site-images/400x400/Cocoa-(2).jpg",
-            "name": "TOTAL MAKEOVER FF CREAM FOUNDATION PALETTE - COCOA",
-            "description": "5 in 1 Primer-Concealer-Foundation-Compact with SPF 30 & Skin Tone Corrector Palette",
-            "plus-icon src": "",
-            "shade-count": "4 SHADES",
-            "offerPrice": 1450,
-            "actualPrice": 2000
-        }   ,           {
-            "id":5,
-            "img": "https://files.myglamm.com/site-images/400x400/17-Amla-Moisturising-Gel-Post-1-01.jpg",
-            "name": "MANISH MALHOTRA AMLA MOISTURISING GEL",
-            "description": "Gel-based Natural Moisturiser",
-            "plus-icon src": "",
-            "shade-count": "3 SHADES",
-            "offerPrice": 756,
-            "actualPrice": 945
-        }   ,           {
-            "id":6,
-            "img": "https://files.myglamm.com/site-images/400x400/Rge-(1).jpg",
-            "name": "SPOTLIGHT ILLUMINATING LIQUID - ROUGE",
-            "description": "Shimmer Liquid Blush",
-            "plus-icon src": "",
-            "shade-count": "2 SHADES",
-            "offerPrice": 597,
-            "actualPrice":1195 
-        }   ,           {
-            "id":7,
-            "img": "https://files.myglamm.com/site-images/400x400/FMCLN-(1).jpg",
-            "name": "MANISH MALHOTRA LIQUID MATTE LIPSTICK - EYES ON ME",
-            "description": "Long-stay Velvet Matte Lip Colour",
-            "plus-icon src": "",
-            "shade-count": "1 SHADES",
-            "offerPrice": 796,
-            "actualPrice":995 
-        }   ,           {
-            "id":8,
-            "img": "https://files.myglamm.com/site-images/400x400/EYM1.jpg",
-            "name": "MANISH MALHOTRA LIQUID MATTE LIPSTICK - EYES ON ME",
-            "description": "",
-            "plus-icon src": "",
-            "shade-count": "",
-            "offerPrice": 678,
-            "actualPrice":890 
-        }   ,           {
-            "id":9,
-            "img": "https://files.myglamm.com/site-images/400x400/GL1.jpg",
-            "name": "GLOW TO GLAMOUR SHIMMER AND FIXING POWDER",
-            "description": "2 in 1 Shimmer and Fixing Powder",
-            "plus-icon src": "",
-            "shade-count": "4 SHADES",
-            "offerPrice": 537,
-            "actualPrice": 1195
-        }   ,           {
-            "id":10,
-            "img": "https://files.myglamm.com/site-images/400x400/Hi-shine-Lipgloss-Post-1-Retro-Romance.jpg",
-            "name": "MANISH MALHOTRA HI-SHINE LIPGLOSS - RETRO ROMANCE",
-            "description": "Hi-Shine, Iridescent Lipgloss",
-            "plus-icon src": "",
-            "shade-count": "2 SHADES",
-            "offerPrice": 789,
-            "actualPrice": 1234
-        }      
-
-     ],
-     "LatestDrops":[
-        {
-            "id": "1",
-            "img": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
-            "name": "POPxo Makeup - Mini Lip Kit",
-            "description": "Mini Lipstick kit with 3 creamy-matte bold lipsticks",
-            "offerPrice": 244,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "5 Shades",
-            "actualPrice": 349,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "2",
-                "img": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
-            "name": "LIT Brow Definer Pencil",
-            "description": "Define & Sculpt Browliner",
-            "offerPrice": 495,
-            "plus_icon_src": "",
-            "count": "",
-            "actualPrice": null,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "3",
-                "img": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
-            "name": "Perfect Curves",
-            "description": "Moisturising Matte Lipstick",
-            "offerPrice": 486,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "10 Shades",
-            "actualPrice": 695,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "4",
-                "img": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
-            "name": "POPxo Makeup - Eyeshadow Kit",
-            "description": "Eyeshadow palette with 2 shimmer and 2 matte shades",
-            "offerPrice": 224,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "2 Shades",
-            "actualPrice": 299,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "5",
-                "img": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
-            "name": "LIT - pH Lip Balm",
-            "description": "Creamy, Hydrating Formula with a Luminous Effect",
-            "offerPrice": 345,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "5 Shades",
-            "actualPrice": null,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "6",
-                "img": "https://files.myglamm.com/site-images/800x800/Fvr-(1).jpg",
-            "name": "Tint It Up",
-            "description": "Lip & Cheek Stain",
-            "offerPrice": 695,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "3 Shades",
-            "actualPrice": null,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "7",
-                "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(2).jpg",
-            "name": "SUPERFOODS Kajal",
-            "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
-            "offerPrice": 296,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "2 Shades",
-            "actualPrice": 395,
-            "cetegory": "makeup",
-            "__v": 0
-            },
-            {
-                "id": "8",
-                "img": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
-            "name": "MyGlamm LIT Glossy Liquid Eyeliner",
-            "description": "Up To 24HR Smudge-Proof Coloured Eyeliner",
-            "offerPrice": 325,
-            "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
-            "count": "4 Shades",
-            "actualPrice": null,
-            "cetegory": "makeup",
-            "__v": 0
-            }
-            
-     ]
-
-}
+              "offerPrice": 486,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+              "count": "10 Shades",
+              "actualPrice": 695,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "26",
+                  "img": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+              "name": "POPxo Makeup - Eyeshadow Kit",
+              "description": "Eyeshadow palette with 2 shimmer and 2 matte shades",
+              "offerPrice": 224,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+              "count": "2 Shades",
+              "actualPrice": 299,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "27",
+                  "img": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
+              "name": "LIT - pH Lip Balm",
+              "description": "Creamy, Hydrating Formula with a Luminous Effect",
+              "offerPrice": 345,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+              "count": "5 Shades",
+              "actualPrice": null,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "28",
+                  "img": "https://files.myglamm.com/site-images/800x800/Fvr-(1).jpg",
+              "name": "Tint It Up",
+              "description": "Lip & Cheek Stain",
+              "offerPrice": 695,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+              "count": "3 Shades",
+              "actualPrice": null,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "29",
+                  "img": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(2).jpg",
+              "name": "SUPERFOODS Kajal",
+              "description": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+              "offerPrice": 296,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+              "count": "2 Shades",
+              "actualPrice": 395,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              },
+              {
+                  "_id": "30",
+                  "img": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
+              "name": "MyGlamm LIT Glossy Liquid Eyeliner",
+              "description": "Up To 24HR Smudge-Proof Coloured Eyeliner",
+              "offerPrice": 325,
+              "plus_icon_src": "https://www.myglamm.com/images/plus-icon.png",
+              "count": "4 Shades",
+              "actualPrice": null,
+              "cetegory": "LatestDrops",
+              "__v": 0
+              }
+              
+      
+  ]
